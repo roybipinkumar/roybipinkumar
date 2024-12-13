@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bipin Kumar</h1>
 <h3 align="center">Hi, I'm Bipin, a 3rd-year CSE student specializing in AI & ML. I'm passionate about Machine Learning, DSA, and Full-Stack Development. I thrive on solving complex problems, building innovative solutions, and writing clean, scalable code while continuously learning and sharing knowledge.</h3>
-<img algin=“right” alt=“coding” width=“400” src=“https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roybipinkumar&label=Profile%20views&color=0e75b6&style=flat" alt="roybipinkumar" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning,Fullstack,DSA(java),**
